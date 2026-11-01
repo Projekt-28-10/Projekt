@@ -1,0 +1,15 @@
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/bin/Debug/net8.0/sito
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/bin/Debug/net8.0/sito.deps.json
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/bin/Debug/net8.0/sito.runtimeconfig.json
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/bin/Debug/net8.0/sito.dll
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/bin/Debug/net8.0/sito.pdb
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.AssemblyInfoInputs.cache
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.AssemblyInfo.cs
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.csproj.CoreCompileInputs.cache
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.sourcelink.json
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.dll
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/refint/sito.dll
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.pdb
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/sito.genruntimeconfig.cache
+/home/kazumba/Desktop/Zadanie_informatyka/Repo/Projekt/Języki/C#/sito/obj/Debug/net8.0/ref/sito.dll
